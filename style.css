@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+}
+
+.card{
+    border: 1px solid gray;
+    box-shadow: 10px 5px 5px #808080;
+    border-radius: 10px;
+    flex: 1;
+    margin: 20px;
+    text-align: center;
+}
+
+img{
+    width: 200px;
+}
+
+.me-gusta{
+    display: flex;
+    margin: 10px;
+}
+
+.me-gusta p{
+    flex:1;
+}
+
+.me-gusta button{
+    flex:1;
+}
